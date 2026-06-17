@@ -1,0 +1,11 @@
+{
+  "name": "물도이일정",
+  "short_name": "물도이일정",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "description": "일정 알림 앱",
+  "orientation": "portrait"
+}
